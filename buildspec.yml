@@ -20,5 +20,5 @@ phases:
 artifacts:
     files:
     - '**/*'
-    name: webapp-artifact
+    name: webapp-artifacts
             
